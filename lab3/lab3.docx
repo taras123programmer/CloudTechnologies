@@ -1,0 +1,55 @@
+﻿Lab 03 - Manage Azure resources by using Azure Resource Manager Templates
+
+
+Task 1: Create an Azure Resource Manager template
+
+	
+
+
+
+
+
+
+Task 2: Edit an Azure Resource Manager template and then redeploy the template
+	
+
+
+
+
+
+
+
+Task 3: Configure the Cloud Shell and deploy a template with PowerShell
+
+
+
+
+
+
+
+Task 4: Deploy a template with the CLI
+
+
+
+Task 5: Deploy a resource by using Azure Bicep
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
