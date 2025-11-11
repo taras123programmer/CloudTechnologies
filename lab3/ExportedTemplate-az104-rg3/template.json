@@ -12,7 +12,7 @@
         {
             "type": "Microsoft.Compute/disks",
             "apiVersion": "2025-01-02",
-            "name": "[parameters('disks_az104_disk4_name')]",
+            "name": "[parameters(\'disks_az104_disk4_name\')]",
             "location": "germanywestcentral",
             "sku": {
                 "name": "Standard_LRS",
